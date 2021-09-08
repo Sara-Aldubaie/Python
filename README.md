@@ -1,2 +1,2 @@
 # Python
-This repository includes all the assignments, challenges, and project I did on the Data science Bootcamp related to the python programming language  
+This repository includes all the assignments, challenges, and projects I did on the Data science Bootcamp that are related to python programming language  
